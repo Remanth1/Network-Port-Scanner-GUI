@@ -2,10 +2,6 @@
 
 A simple desktop app to scan open TCP ports using a graphical interface. It is written in Python with Tkinter and is made for learning and basic authorized testing.
 
-## Repository Description
-
-Network Port Scanner GUI is a beginner-friendly Python project that scans open TCP ports on a target system through an easy desktop interface, with live results, multithreaded scanning, and export to text files.
-
 Python 3.7+ | Tkinter (standard library) | Windows | macOS | Linux | MIT License
 
 ## Project Overview
